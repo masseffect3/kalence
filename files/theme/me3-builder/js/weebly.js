@@ -10,7 +10,7 @@
 var Core = Core || {};
 
 jQuery191(function($) {
-  Core.mediaUrl = '/files/theme/me3-builder/';
+  Core.mediaUrl = 'files/theme/me3-builder/';
 });
 
 /**
